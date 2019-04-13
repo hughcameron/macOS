@@ -12,9 +12,9 @@ Paste this in the macOS Terminal prompt:
 
 ``` shell
 brew install \
+    fzf \
     git \
-    mas \
-    tmux
+    mas
 ```
 
 ## Install Brew Taps

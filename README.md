@@ -13,7 +13,14 @@ Paste this in the macOS Terminal prompt:
 ``` shell
 brew install \
     git \
-    mas
+    mas \
+    tmux
+```
+
+## Install Brew Taps
+
+``` shell
+brew tap homebrew/cask-fonts
 ```
 
 ## Install Brew Casks

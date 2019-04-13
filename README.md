@@ -88,3 +88,43 @@ mas install \
     1035137927 # KeyKey — Typing Practice
     409203825 # Numbers
 ```
+
+## Install VS Code Extensions
+
+``` shell
+acarreiro.calculate
+batisteo.vscode-django
+bradymholt.pgformatter
+bungcip.better-toml
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+dakara.transformer
+darkriszty.markdown-table-prettify
+DavidAnson.vscode-markdownlint
+deerawan.vscode-dash
+eamodio.gitlens
+esbenp.prettier-vscode
+exiasr.hadolint
+flesler.url-encode
+GitHub.vscode-pull-request-github
+Glavin001.unibeautify-vscode
+GrapeCity.gc-excelviewer
+hdg.live-html-previewer
+jithurjacob.nbpreviewer
+jkjustjoshing.vscode-text-pastry
+joshbax.mdhelper
+kirozen.wordcounter
+markskelton.one-dark-pro-italic
+mdickin.markdown-shortcuts
+mikestead.dotenv
+mitchdenny.ecdc
+ms-python.anaconda-extension-pack
+ms-python.python
+nmsmith89.incrementor
+rebornix.ruby
+redhat.vscode-yaml
+sensourceinc.vscode-sql-beautify
+Shan.code-settings-sync
+wholroyd.jinja
+wmaurer.change-case
+```
